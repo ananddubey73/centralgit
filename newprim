@@ -1,0 +1,12 @@
+num=int(input("enter any number"))
+num1=0
+i=2
+while num>i:
+  if num%i==0:
+     num1=1
+     break
+   [D [Di=i+1
+if num1==0:
+  print ()[("prime number")
+else:
+  print ("not prime num")[A[A[D[D,num)[B[B[D[D[D[D,num)[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
